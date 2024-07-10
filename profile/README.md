@@ -1,12 +1,14 @@
-## Hi there 👋
+# Maestría en Inteligencia Artificial Aplicada (MNA) - ITESM
 
-<!--
+La **Maestría en Inteligencia Artificial Aplicada (MNA)** del **Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM)** es un programa de posgrado diseñado para preparar a profesionales en el campo de la inteligencia artificial (IA) con un enfoque práctico y aplicado. Este programa está orientado a la formación de expertos capaces de diseñar, desarrollar e implementar soluciones de IA en diversos sectores industriales y de servicios.
 
-**Here are some ideas to get you started:**
+El MNA se distingue por su enfoque interdisciplinario y su énfasis en la resolución de problemas reales mediante el uso de tecnologías avanzadas de inteligencia artificial. A lo largo del programa, los estudiantes adquieren competencias en áreas como:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- Aprendizaje automático
+- Procesamiento de lenguaje natural
+- Visión por computadora
+- Robótica
+
+Además, se fomenta la colaboración con empresas y organizaciones, lo que permite a los alumnos trabajar en proyectos de gran impacto y relevancia práctica.
+
+Los egresados de la **Maestría en Inteligencia Artificial Aplicada** del **ITESM** estarán capacitados para enfrentar los retos y aprovechar las oportunidades que ofrece la IA en un entorno global, contribuyendo al desarrollo tecnológico y a la innovación en sus respectivos campos profesionales.
